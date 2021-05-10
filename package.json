@@ -17,7 +17,7 @@
     "axios": "^0.18.0",
     "connected-react-router": "^6.4.0",
     "history": "^4.9.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "moment": "^2.24.0",
     "prop-types": "^15.7.2",
     "react-cookie": "^4.0.0",
